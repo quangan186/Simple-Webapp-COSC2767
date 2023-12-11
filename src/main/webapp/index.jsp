@@ -14,7 +14,7 @@
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">Hello world for DevOps Students!</h1>
+      <h1 class="display-4">Hello Diablo!</h1>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!! Woohoooo!</p>
       <p class="lead">This sentence is a new feature and hopefully will trigger the Jenkins job to activate!</p>
